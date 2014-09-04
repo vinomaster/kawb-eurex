@@ -7,7 +7,7 @@ These IPython Notebooks are compatible with the IBM Knowledge Anyhow Workbench (
 
 Basic Tutorial
 --------------
-Analyzing Historical VSTOXX Data
+[Analyzing Historical VSTOXX Data](http://www.eurexchange.com/vstoxx/b_Analyzing_Historical_VSTOXX_Data.html#index-1)
 
 Importable Notebooks
 --------------------
